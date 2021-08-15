@@ -1,6 +1,14 @@
 import React from 'react';
 import '../../App.css';
+import Footer from '../Footer';
 
-export default function Menu() {
-  return <h1 className=''>Menu</h1>;
+function Menu() {
+  return (
+    <>
+      <h1>Menu</h1>
+      <Footer/>
+    </>
+  );
 }
+
+export default Menu;
