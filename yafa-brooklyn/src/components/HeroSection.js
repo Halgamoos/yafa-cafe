@@ -7,7 +7,7 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <div className = 'hero-box'>
-        <h1>Yafa Cafe</h1>
+        <h1 className = 'title'>Yafa Cafe</h1>
 
         <h2>"Born in Yemen. Raised in Brooklyn."</h2>
 
@@ -17,7 +17,7 @@ function HeroSection() {
       <div>
         {/* <FontAwesomeIcon icon={["fal", "coffee"]} /> */}
       </div>
-
+      {/* Ubereats, seamless */}
       {/* <div className='hero-btns'>
         <Button
           className='btns'
