@@ -58,19 +58,18 @@ function Navbar() {
                 About Us
               </Link>
             </li>
-
             <li>
-              <Link
-                // link to yafa shopify
-                to='/shop'
-                className='nav-links-mobile'
-                onClick={closeMobileMenu}
-              >
-                Shop
-              </Link>
+                <a
+                  // link to yafa shopify
+                  href = 'https://www.shop.yafabrooklyn.com/'
+                  className='nav-links-mobile'
+                  onClick={closeMobileMenu}
+                >
+                  Shop
+                </a>          
             </li>
           </ul>
-          {button && <Button buttonStyle='btn--outline'>SHOP</Button>}
+          {button && <a href = "https://www.shop.yafabrooklyn.com/"><Button buttonStyle='btn--outline'>SHOP</Button></a>}
         </div>
       </nav>
     </>
