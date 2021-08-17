@@ -24,6 +24,7 @@
 }
 
 .hero-box {
+  margin-top: 50px;
   width: 50%;
   height: 60%;
   background-color: rgba(100, 100, 100, 0.8);

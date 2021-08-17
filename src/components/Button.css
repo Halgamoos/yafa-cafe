@@ -1,7 +1,13 @@
 :root {
     --primary: #fff;
   }
-  
+  .button-col {
+    display: flex;
+    flex: 33%;
+    flex-direction: row;
+    justify-content: center;
+
+  }
   .btn {
     padding: 8px 20px;
     border-radius: 2px;
@@ -11,9 +17,9 @@
   }
   
   .btn--primary {
-    background-color: var(--primary);
+    background-color: #f8f0e3;
     color: #242424;
-    border: 1px solid var(--primary);
+    border: 2px solid black;
   }
   
   .btn--outline {
