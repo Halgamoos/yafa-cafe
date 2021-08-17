@@ -8,6 +8,7 @@ function Menu() {
   return (
     <>
       <h1 align = "center" className = "title">Menu</h1>
+      <p align = "center">Hint: at the bottom, you can also access our UberEats and Seamless 😊</p>
 
       <div className = "row">
         <div className = "column">
