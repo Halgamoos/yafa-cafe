@@ -1,1 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Yafa Cafe -- (not yet deployed)
+
+## Redesigned my favorite local Yemeni-American resteraunt's website using React!
+
+## Before and after coming soon.
