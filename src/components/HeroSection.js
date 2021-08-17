@@ -23,7 +23,7 @@ function HeroSection() {
               buttonStyle='btn--primary'
               buttonSize='btn--large'
             >
-              Uber Eats <i class="fas fa-utensils"></i>
+              UberEats <i class="fas fa-utensils"></i>
             </Button>
           </a>
           <a href = "https://www.seamless.com/menu/yafa-cafe-4415-4th-ave-brooklyn/2043300">
