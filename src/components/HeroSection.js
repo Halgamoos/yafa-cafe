@@ -17,27 +17,33 @@ function HeroSection() {
       {/* Ubereats, seamless */}
       <div className="button-col">
         <div className='hero-btns'>
-          <Button
+          <a href = "https://www.ubereats.com/store/yafa-cafe/">
+            <Button
+              className='btns'
+              buttonStyle='btn--primary'
+              buttonSize='btn--large'
+            >
+              Uber Eats <i class="fas fa-utensils"></i>
+            </Button>
+          </a>
+          <a href = "https://www.seamless.com/menu/yafa-cafe-4415-4th-ave-brooklyn/2043300">
+            <Button
             className='btns'
             buttonStyle='btn--primary'
             buttonSize='btn--large'
-          >
-            Uber Eats <i class="fas fa-utensils"></i>
-          </Button>
-          <Button
-            className='btns'
-            buttonStyle='btn--primary'
-            buttonSize='btn--large'
-          >
-            Seamless <i class="fas fa-utensils"></i>
-          </Button>
-          <Button
-            className='btns'
-            buttonStyle='btn--primary'
-            buttonSize='btn--large'
-          >
-            Yafa Shop <i class="fas fa-shopping-cart"></i>
-          </Button>
+            >
+              Seamless <i class="fas fa-utensils"></i>
+            </Button>
+          </a>
+          <a href = "https://www.shop.yafabrooklyn.com/">
+            <Button
+              className='btns'
+              buttonStyle='btn--primary'
+              buttonSize='btn--large'
+            >
+              Yafa Shop <i class="fas fa-shopping-cart"></i>
+            </Button>
+          </a>
         </div>
       </div>
 
