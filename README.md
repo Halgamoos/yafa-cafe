@@ -4,6 +4,8 @@
 
 Website is completed! Just waiting for final sign off by the restaurant owners 🙂
 
+# Check out how it looks below!
+
 ## Mobile View Before
 ![yafa_before_mobile](https://user-images.githubusercontent.com/24259728/130336795-36b0cb42-bc40-4bda-bcee-22df65fa4051.gif)
 
