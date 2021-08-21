@@ -4,7 +4,5 @@
 
 Website is completed! Just waiting for final sign off by the restaurant owners 🙂
 
-| Before      | After       |
-| ----------- | ----------- |
-| Mobile view | Mobile View |
-|             |             |
+| Before                                                                    | After                                                                    |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
