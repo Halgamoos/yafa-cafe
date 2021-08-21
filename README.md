@@ -2,7 +2,7 @@
 
 **Redesigned a local Yemeni-American resteraunt's website from scratch using React!**
 
-Website is completed! Just waiting for final sign off by the restaurant owners 🙂
+*Website is completed! Just waiting for final sign off by the restaurant owners 🙂 *
 
 ## Check out how it looks below!
 
