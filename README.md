@@ -4,4 +4,5 @@
 
 Website is completed! Just waiting for final sign off by the restaurant owners 🙂
 
-## Before and After
+
+ | Before | After |
