@@ -1,4 +1,4 @@
-# Yafa Cafe
+# Yafa Cafe  --  *Walkthrough shown below*
 
 **Redesigned a local Yemeni-American resteraunt's website from scratch using React!**
 
